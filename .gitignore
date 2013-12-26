@@ -4,3 +4,5 @@ Manifest
 test/config.yml
 *.swp
 ./**/.swp
+
+.idea/*
